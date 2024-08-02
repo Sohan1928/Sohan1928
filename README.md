@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I'm SK Sohanur Rahman
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D4E16AQF2VzmWgXVB7Q/profile-displaybackgroundimage-shrink_350_1400/0/1716098859406?e=1727913600&v=beta&t=9Mw86mUOILG77XnWsNTMvzG8DU4vTRtyC_DtesYz6HI)
 
 I'm a passionate web developer able to create attractive responsive websites with the latest technologies like Tailwind CSS, React.js, Node.js, Express.js, etc. Tailwind CSS & React.js lend elegance to my designs and make them eye-catching, while Firebase integration adds real-time capabilities and security. I'm also excelled in one of the most popular database platforms named MongoDB atlast. Hence, my built websites possess the functionality of an ideal MERN stake website.
 
